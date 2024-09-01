@@ -1,3 +1,4 @@
+
 #Fill in the robot transaction configuration rules, one transaction configuration per line, separated by "|",Add '~', '!', '@', '$', '%', '^', '*' to duplicate currency prefixes Symbol.
 #coin[1]|conin[2]|anchor time|lever[1]|lever[2]|Opening amount|Position opening range|Position closing range|callback range
 #BTC|ETH|2024/01/01 00:00:00|125|125|1000|10|1|0
