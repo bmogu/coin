@@ -1,12 +1,15 @@
 #Fill in the robot transaction configuration rules, one transaction configuration per line, separated by "|",Add '~', '!', '@', '$', '%', '^', '*' to duplicate currency prefixes Symbol.
 #coin[1]|conin[2]|anchor time|lever[1]|lever[2]|Opening amount|Position opening range|Position closing range|callback range
-#BTC|ETH|2024/01/01 00:00:00|125|125|1000|10|1|0
-#~BTC|AVAX|2024/01/01 00:00:00|125|125|1000|10|1|0
+#BTC|ETH|2024-01-01 00:00:00|125|125|1000|10|1|0
+#~BTC|AVAX|2024-01-01 00:00:00|125|125|1000|10|1|0
 ACH|CETUS|2024-05-01 00:00:00|20|50|20|10|1|0
+ALPHA|~CETUS|2024-05-01 00:00:00|50|50|20|8|2|0
 APT|BCH|2024-05-15 00:00:00|50|50|20|5|1|0
 ALGO|XTZ|2024-05-01 00:00:00|50|50|20|5|1|0
 APE|GMT|2024-05-01 00:00:00|50|50|20|4|1|0
+ARB|SNX|2024-05-15 00:00:00|50|50|20|5|1|0
+AR|ICP|2024-05-15 00:00:00|50|20|20|10|5|0
 BAND|LUNC|2024-05-01 00:00:00|50|50|20|5|1|0
 ETHW|RVN|2024-06-01 00:00:00|50|50|20|8|1|0
 EOS|IOST|2024-05-15 00:00:00|50|50|20|5|1|0
-ARB|SNX|2024/05/15 00:00:00|50|50|20|5|1|0
+ZRX|IMX|2024-06-01 00:00:00|50|50|20|5|1|0
